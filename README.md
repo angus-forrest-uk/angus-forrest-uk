@@ -1,5 +1,9 @@
-working on high performance computing in the astronomy field
+I'm Angus
+
+working on high performance computing in the astronomy
+
 checkout my work on [drift](https://github.com/lbparticles/astrodrift), a numerical integrator on the GPU
+
 here you can find some articles I'm quite proud of [website](https://angusforrest.com)
 
 links to other things
