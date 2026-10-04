@@ -22,10 +22,12 @@ read -r created issues pull_requests contributed_to repositories stars < <(gh ap
 age=$(( ($(date -u +%s) - $(date -u -d "$created" +%s)) / 31557600 ))
 
 # contributionsCollection spans at most a year, so ask for one per calendar year.
+# Private contributions are only reported as a single count, so they are added to the commits.
 years=""
 for year in $(seq "${created:0:4}" "$(date -u +%Y)"); do
   years+="y$year: contributionsCollection(from: \"$year-01-01T00:00:00Z\", to: \"$year-12-31T23:59:59Z\") {
     totalCommitContributions
+    restrictedContributionsCount
     contributionCalendar { weeks { contributionDays { date contributionCount } } }
   } "
 done
@@ -39,7 +41,7 @@ read -r commits streak < <(gh api graphql -f login="$login" -f query="
     | [$years[].contributionCalendar.weeks[].contributionDays[] | select(.date <= $last)] | sort_by(.date)
     | (if .[-1].contributionCount == 0 then .[:-1] else . end)
     | (if .[-1].contributionCount == 0 then .[:-1] else . end) | reverse
-    | [([$years[].totalCommitContributions] | add), ((map(.contributionCount == 0) | index(true)) // length)] | @tsv')
+    | [([$years[] | .totalCommitContributions + .restrictedContributionsCount] | add), ((map(.contributionCount == 0) | index(true)) // length)] | @tsv')
 
 sed \
   -e "s/{{ ACCOUNT_AGE }}/$age/" \
