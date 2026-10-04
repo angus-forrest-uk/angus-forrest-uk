@@ -11,4 +11,4 @@ I'm a developer in London that works with large datasets.
 | **Writing** | [angusforrest.com](https://angusforrest.com) |
 | **Elsewhere** | [ORCID](https://orcid.org/0009-0008-0355-5809) / [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) |
 
-I joined GitHub **8** years ago and have since pushed **209** commits, opened **25** issues and **60** pull requests, and contributed to **17** repositories.
+I joined GitHub **8** years ago and have since pushed **210** commits, opened **18** issues and **51** pull requests, and contributed to **5** repositories.
