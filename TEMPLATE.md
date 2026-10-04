@@ -15,7 +15,9 @@
 
 #### ⚡ Stats
 
-I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues and **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, with contributions to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+I'm currently on a **{{ COMMIT_STREAK }}**-day commit streak.
 
 #### 🌀 Projects
 
