@@ -4,7 +4,7 @@
 
 👾 I'm **Angus**.
 
-🔭 A developer in London that works with large datasets.
+🔭 A developer with a passion for astronomy, data, and reproducibility.
 
 🌌 I build [**Astrodrift**](https://github.com/lbparticles/astrodrift)
 
