@@ -15,7 +15,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and have since pushed **659** commits, opened **18** issues, submitted **51** pull requests, and earned **2** stars across **4** personal projects, with contributions to **4** public repositories.
+I joined GitHub **8** years ago and have since pushed **659** commits, opened **25** issues, submitted **60** pull requests, and earned **2** stars across **31** personal projects, with contributions to **15** public repositories.
 
 I'm currently on a **6**-day commit streak.
 
@@ -29,8 +29,8 @@ I'm currently on a **6**-day commit streak.
 
 | **Category** | **Description** |
 | --- | --- |
-| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift) – A galaxy simulation platform on the GPU. |
+| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform on the GPU. |
 | **Researching** | Interstellar objects with the [Ōtautahi-Oxford Working Group](https://otautahi-oxford.org) (ApJ [2026](https://scixplorer.org/abs/2026ApJ...998..187F/abstract), [2025](https://scixplorer.org/abs/2025ApJ...988..121F/abstract)). |
-| **Consulting** | [Solfain](https://solfain.com) – A data consultancy. |
+| **Consulting** | [Solfain](https://solfain.com) - A data consultancy. |
 | **Writing** | [Articles](https://angusforrest.com). |
 | **Yapping** | [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) / [ORCID](https://orcid.org/0009-0008-0355-5809). |

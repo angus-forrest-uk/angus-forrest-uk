@@ -29,8 +29,8 @@ I'm currently on a **{{ COMMIT_STREAK }}**-day commit streak.
 
 | **Category** | **Description** |
 | --- | --- |
-| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift) – A galaxy simulation platform on the GPU. |
+| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform on the GPU. |
 | **Researching** | Interstellar objects with the [Ōtautahi-Oxford Working Group](https://otautahi-oxford.org) (ApJ [2026](https://scixplorer.org/abs/2026ApJ...998..187F/abstract), [2025](https://scixplorer.org/abs/2025ApJ...988..121F/abstract)). |
-| **Consulting** | [Solfain](https://solfain.com) – A data consultancy. |
+| **Consulting** | [Solfain](https://solfain.com) - A data consultancy. |
 | **Writing** | [Articles](https://angusforrest.com). |
 | **Yapping** | [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) / [ORCID](https://orcid.org/0009-0008-0355-5809). |
