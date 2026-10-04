@@ -1,12 +1,12 @@
-I'm Angus
+### Hi, I'm Angus
 
-working on high performance computing in the astronomy
+I'm a developer in London working on high performance computing for astronomy.
 
-checkout my work on [drift](https://github.com/lbparticles/astrodrift), a numerical integrator on the GPU
-
-here you can find some articles I'm quite proud of [website](https://angusforrest.com)
-
-links to other things
-- [tangled](https://tangled.org/angusforrest.com)
-- [orcid](https://orcid.org/0009-0008-0355-5809)
-- [bsky](https://bsky.app/profile/angusforrest.com)
+| | |
+| --- | --- |
+| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift), a galaxy simulation platform built with cuda-rust |
+| | [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux), ridge line maps from SRTM data |
+| **Researching** | Interstellar objects with the [Ōtautahi-Oxford Working Group](https://otautahi-oxford.org) (ApJ [2026](https://scixplorer.org/abs/2026ApJ...998..187F/abstract), [2025](https://scixplorer.org/abs/2025ApJ...988..121F/abstract)) |
+| **Consulting** | [Solfain](https://solfain.com) |
+| **Writing** | [angusforrest.com](https://angusforrest.com) |
+| **Elsewhere** | [ORCID](https://orcid.org/0009-0008-0355-5809) / [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) |
