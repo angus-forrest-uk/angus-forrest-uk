@@ -1,3 +1,5 @@
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/perlin.png">
+
 ### Hey!
 
 👾 I'm **Angus**.
@@ -5,6 +7,11 @@
 🔭 A developer in London that works with large datasets.
 
 🌌 I build [**Astrodrift**](https://github.com/lbparticles/astrodrift)
+
+<br>
+<br>
+<br>
+<br>
 
 #### ⚡ Stats
 

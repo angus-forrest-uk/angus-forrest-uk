@@ -1,3 +1,5 @@
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/perlin.png">
+
 ### Hey!
 
 👾 I'm **Angus**.
@@ -6,9 +8,14 @@
 
 🌌 I build [**Astrodrift**](https://github.com/lbparticles/astrodrift)
 
+<br>
+<br>
+<br>
+<br>
+
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and have since pushed **211** commits, opened **18** issues and **51** pull requests, and contributed to **5** repositories.
+I joined GitHub **8** years ago and have since pushed **211** commits, opened **25** issues and **60** pull requests, and contributed to **17** repositories.
 
 #### 🌀 Projects
 
