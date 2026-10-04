@@ -15,15 +15,15 @@
 
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and have since pushed **661** commits, opened **18** issues, submitted **51** pull requests, and earned **2** stars across **4** personal projects, with contributions to **4** public repositories.
+I joined GitHub **8** years ago and have since pushed **661** commits, opened **25** issues, submitted **60** pull requests, and earned **2** stars across **31** personal projects, with contributions to **15** public repositories.
 
 I'm currently on a **6**-day commit streak.
 
 #### 🌀 Projects
 
-| **Rust** |
-| --- |
-| • [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data |
+| **Rust** | **Other** (Shell, Nix) |
+| --- | --- |
+| • [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data | • [simple-bpt](https://github.com/angus-forrest-uk/simple-bpt) - HMRC's Basic PAYE Tools packaged as a server |
 
 #### 🛠️ What am I working on?
 

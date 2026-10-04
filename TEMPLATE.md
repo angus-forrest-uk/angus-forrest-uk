@@ -21,9 +21,9 @@ I'm currently on a **{{ COMMIT_STREAK }}**-day commit streak.
 
 #### 🌀 Projects
 
-| **Rust** |
-| --- |
-| • [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data |
+| **Rust** | **Other** (Shell, Nix) |
+| --- | --- |
+| • [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data | • [simple-bpt](https://github.com/angus-forrest-uk/simple-bpt) - HMRC's Basic PAYE Tools packaged as a server |
 
 #### 🛠️ What am I working on?
 
