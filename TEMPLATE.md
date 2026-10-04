@@ -6,7 +6,7 @@
 
 🔭 A developer with an insane passion for astronomy, data, and reproducibility.
 
-🌌 I build [**Astrodrift**](https://github.com/lbparticles/astrodrift)
+🌌 I build [**@Astrodrift**](https://github.com/lbparticles/astrodrift)
 
 <br>
 <br>
