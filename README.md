@@ -15,7 +15,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and have since pushed **213** commits, opened **25** issues and **60** pull requests, and contributed to **17** repositories.
+I joined GitHub **8** years ago and have since pushed **214** commits, opened **18** issues and **51** pull requests, and contributed to **5** repositories.
 
 #### 🌀 Projects
 
