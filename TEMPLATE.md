@@ -1,14 +1,27 @@
-### Hi, I'm Angus
+### Hey!
 
-I'm a developer in London that works with large datasets.
+👾 I'm **Angus**.
 
-| | |
-| --- | --- |
-| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift), a galaxy simulation platform built with cuda-rust |
-| | [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux), ridge line maps from SRTM data |
-| **Researching** | Interstellar objects with the [Ōtautahi-Oxford Working Group](https://otautahi-oxford.org) (ApJ [2026](https://scixplorer.org/abs/2026ApJ...998..187F/abstract), [2025](https://scixplorer.org/abs/2025ApJ...988..121F/abstract)) |
-| **Consulting** | [Solfain](https://solfain.com) |
-| **Writing** | [angusforrest.com](https://angusforrest.com) |
-| **Elsewhere** | [ORCID](https://orcid.org/0009-0008-0355-5809) / [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) |
+🔭 A developer in London that works with large datasets.
+
+🌌 I build [**Astrodrift**](https://github.com/lbparticles/astrodrift)
+
+#### ⚡ Stats
 
 I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues and **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
+
+#### 🌀 Projects
+
+| **Rust** |
+| --- |
+| • [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data |
+
+#### 🛠️ What am I working on?
+
+| **Category** | **Description** |
+| --- | --- |
+| **Building** | [Astrodrift](https://github.com/lbparticles/astrodrift) – A galaxy simulation platform on the GPU. |
+| **Researching** | Interstellar objects with the [Ōtautahi-Oxford Working Group](https://otautahi-oxford.org) (ApJ [2026](https://scixplorer.org/abs/2026ApJ...998..187F/abstract), [2025](https://scixplorer.org/abs/2025ApJ...988..121F/abstract)). |
+| **Consulting** | [Solfain](https://solfain.com) – A data consultancy. |
+| **Writing** | [Articles](https://angusforrest.com). |
+| **Yapping** | [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) / [ORCID](https://orcid.org/0009-0008-0355-5809). |
