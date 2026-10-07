@@ -2,24 +2,18 @@
 
 ### Hey!
 
-👾 I'm **Angus**.
+🚀 I'm **Angus**.
 
 🔭 A developer with an insane passion for astronomy, data, and reproducibility.
 
-🌌 I build [**@Astrodrift**](https://github.com/lbparticles/astrodrift)
+🪐 I build [**@Astrodrift**](https://github.com/lbparticles/astrodrift)
 
 <br>
 <br>
 <br>
 <br>
 
-#### ⚡ Stats
-
-I joined GitHub **8** years ago and have since pushed **742** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **4** personal projects, with contributions to **4** public repositories.
-
-I'm currently on a **9**-day commit streak.
-
-#### 🌀 Projects
+#### 🏆 Projects
 
 | **Rust** | **Other** (Shell, Nix) |
 | --- | --- |
@@ -34,3 +28,10 @@ I'm currently on a **9**-day commit streak.
 | **Consulting** | [Solfain](https://solfain.com) - A data consultancy. |
 | **Writing** | [Articles](https://angusforrest.com). |
 | **Yapping** | [Bluesky](https://bsky.app/profile/angusforrest.com) / [LinkedIn](https://linkedin.com/in/angus-forrest-uk) / [ORCID](https://orcid.org/0009-0008-0355-5809). |
+
+#### ⚡️ Stats
+
+I joined GitHub **8** years ago and have since pushed **742** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **4** personal projects, with contributions to **4** public repositories.
+
+I'm currently on a **9**-day commit streak.
+
