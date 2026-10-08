@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel.png">
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel.gif">
 
 ### Hey!
 
@@ -31,7 +31,7 @@
 
 #### ⚡️ Stats
 
-I joined GitHub **8** years ago and have since pushed **771** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **5** personal projects, with contributions to **4** public repositories.
+I joined GitHub **8** years ago and have since pushed **772** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **5** personal projects, with contributions to **4** public repositories.
 
 I'm currently on a **9**-day commit streak.
 
