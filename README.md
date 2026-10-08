@@ -1,4 +1,5 @@
-<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel.gif">
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel-light.gif#gh-light-mode-only">
 
 ### Hey!
 
@@ -8,6 +9,7 @@
 
 🪐 I build [**@Astrodrift**](https://github.com/lbparticles/astrodrift)
 
+<br>
 <br>
 <br>
 <br>
@@ -31,7 +33,7 @@
 
 #### ⚡️ Stats
 
-I joined GitHub **8** years ago and have since pushed **773** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **5** personal projects, with contributions to **4** public repositories.
+I joined GitHub **8** years ago and have since pushed **774** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **5** personal projects, with contributions to **4** public repositories.
 
 I'm currently on a **9**-day commit streak.
 
