@@ -1,4 +1,5 @@
-<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel.gif">
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel-light.gif#gh-light-mode-only">
 
 ### Hey!
 
@@ -8,6 +9,7 @@
 
 🪐 I build [**@Astrodrift**](https://github.com/lbparticles/astrodrift)
 
+<br>
 <br>
 <br>
 <br>
