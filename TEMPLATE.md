@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/perlin.png">
+<img align="left" src="https://raw.githubusercontent.com/angus-forrest-uk/angus-forrest-uk/refs/heads/main/assets/steam-machine-pixel.png">
 
 ### Hey!
 
