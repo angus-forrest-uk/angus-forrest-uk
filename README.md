@@ -7,7 +7,7 @@
 
 🔭 A developer with an insane passion for astronomy, data, and reproducibility.
 
-🪐 I build [**@Astrodrift**](https://github.com/lbparticles/astrodrift)
+🪐 I build [**@Astrodrift**](https://github.com/otautahi-oxford/drift)
 
 <br>
 <br>
@@ -19,7 +19,7 @@
 
 | **Rust** | **Other** (Shell, Nix) |
 | --- | --- |
-| • [Astrodrift](https://github.com/lbparticles/astrodrift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data | • [simple-bpt](https://github.com/angus-forrest-uk/simple-bpt) - HMRC's Basic PAYE Tools packaged as a server |
+| • [Astrodrift](https://github.com/otautahi-oxford/drift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data | • [simple-bpt](https://github.com/angus-forrest-uk/simple-bpt) - HMRC's Basic PAYE Tools packaged as a server |
 
 #### 🛠️ What am I working on?
 
@@ -33,7 +33,7 @@
 
 #### ⚡️ Stats
 
-I joined GitHub **8** years ago and have since pushed **775** commits, opened **19** issues, submitted **51** pull requests, and earned **2** stars across **5** personal projects, with contributions to **4** public repositories.
+I joined GitHub **8** years ago and have since pushed **775** commits, opened **19** issues, submitted **51** pull requests, and earned **3** stars across **6** personal projects, with contributions to **4** public repositories.
 
 I'm currently on a **10**-day commit streak.
 
