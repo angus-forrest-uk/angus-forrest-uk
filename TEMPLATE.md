@@ -7,7 +7,7 @@
 
 🔭 A developer with an insane passion for astronomy, data, and reproducibility.
 
-🪐 I build [**@Astrodrift**](https://github.com/otautahi-oxford/drift)
+🪐 I build [**@Drift**](https://github.com/otautahi-oxford/drift)
 
 <br>
 <br>
@@ -19,7 +19,7 @@
 
 | **Rust** | **Other** (Shell, Nix) |
 | --- | --- |
-| • [Astrodrift](https://github.com/otautahi-oxford/drift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data | • [simple-bpt](https://github.com/angus-forrest-uk/simple-bpt) - HMRC's Basic PAYE Tools packaged as a server |
+| • [Drift](https://github.com/otautahi-oxford/drift) - A galaxy simulation platform built with cuda-rust<br>• [ridge_redux](https://github.com/angus-forrest-uk/ridge_redux) - Ridge line maps from SRTM satellite data | • [simple-bpt](https://github.com/angus-forrest-uk/simple-bpt) - HMRC's Basic PAYE Tools packaged as a server |
 
 #### 🛠️ What am I working on?
 
